@@ -10,7 +10,8 @@ public class UserDAOImpl implements UserDAO {
     }
 
     public static  void getCheng(){
-        System.out.println("你是个傻逼");
+        System.out.println("你是个qipa" +
+                "");
     }
     public static void main(String []args){
         getCheng();
