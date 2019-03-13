@@ -10,7 +10,7 @@ public class UserDAOImpl implements UserDAO {
     }
 
     public static  void getCheng(){
-       // System.out.println();
+      System.out.println("sdassadaasaasda");
     }
     public static void main(String []args){
         getCheng();

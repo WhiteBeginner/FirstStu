@@ -1,0 +1,21 @@
+<<<<<<< HEA
+
+
+
+aaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> dev
+aaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> dev
+aaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> dev
+
+dadsa sa
+sdsa
+sdsad
+sadas
+sdsa
+sda
+
+=======
+adasdasasdaasdaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> dev
