@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dadsa sa
 sdsa
 sdsad
@@ -5,3 +6,6 @@ sadas
 sdsa
 sda
 
+=======
+adasdasasdaasdaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+>>>>>>> dev
