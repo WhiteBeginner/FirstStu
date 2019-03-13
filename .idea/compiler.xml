@@ -3,19 +3,11 @@
   <component name="CompilerConfiguration">
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
-  assasaasa
-  asasasa
-  asaas
-  
-  asaasas
-  
-  asaasas
-  
-  asaas
-  asaasas
-  
-  asaas
-  asaas
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="FirstStu" />
+      </profile>
     </annotationProcessing>
   </component>
 </project>
