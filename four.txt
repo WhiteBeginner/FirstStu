@@ -1,9 +1,5 @@
-adadsa
-sadas
-sa
-sdsa
-asd
 
+<<<<<<< HEAD
 asdsa
 sd
 sa
@@ -16,3 +12,7 @@ sdsdsasadsasassdasdasdsasdasdasdasasassadasda
 sad
 sad
 sdsadsasasasa
+=======
+sa
+
+>>>>>>> six
